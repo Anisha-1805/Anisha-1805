@@ -22,9 +22,7 @@
 <a href="mailto:anishasenthilvel@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="tel:+919080414117" target="_blank">
-  <img src="https://img.shields.io/badge/Call-+91_9080414117-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+
 
 </div>
 
