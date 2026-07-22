@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Location-Dindigul,_Tamil_Nadu,_India-6a11cb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dindigul,_Tamil_Nadu,_India-6a11cb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🎓_B.E._CSE_(AI_%26_ML)-VSB_Engineering_College-2575fc?style=for-the-badge" />
 
 <br/><br/>
