@@ -23,29 +23,17 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🧬 About Me
 
-```python
-class AnishaS:
-    def __init__(self):
-        self.role = "Aspiring AI / ML Engineer"
-        self.location = "Dindigul, Tamil Nadu, India"
-        self.degree = "B.E CSE - AI & ML, VSB Engineering College (2023 - 2027)"
-        self.cgpa = "8.07 / 10.00"
-        self.current_focus = ["LLMs", "RAG Pipelines", "Speech AI", "Recommendation Systems"]
-        self.languages = ["English", "Tamil"]
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something intelligent together 🚀")
-
-me = AnishaS()
-me.say_hi()
-```
+- 🚀 Aspiring **AI / ML Engineer** based in Dindigul, Tamil Nadu, India
+- 🎓 Pursuing **B.E. CSE (AI & ML)** at VSB Engineering College *(2023 – 2027)* — CGPA **8.07 / 10.00**
+- 🔍 Currently focused on **LLMs, RAG Pipelines, Speech AI**, and **Recommendation Systems**
+- 🗣️ Fluent in **English** and **Tamil**
+- 💬 Thanks for visiting my profile — let's build something intelligent together!
 
 <br/>
 
@@ -249,5 +237,4 @@ I'm always excited to collaborate on **AI/ML, LLM, and RAG-based projects**. Fee
 <img src="https://komarev.com/ghpvc/?username=Anisha-1805&label=Profile%20Views&color=6a11cb&style=for-the-badge" />
 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=150&section=footer" width="100%"/>
