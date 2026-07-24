@@ -29,7 +29,7 @@
 
 ## 🧬 About Me
 
-- 🚀 Aspiring **AI / ML Engineer** based in Dindigul, Tamil Nadu, India
+- 🚀 Aspiring **AI / ML Engineer** 
 - 🎓 Pursuing **B.E. CSE (AI & ML)** at VSB Engineering College *(2023 – 2027)* — CGPA **8.07 / 10.00**
 - 🔍 Currently focused on **LLMs, RAG Pipelines, Speech AI**, and **Recommendation Systems**
 - 🗣️ Fluent in **English** and **Tamil**
