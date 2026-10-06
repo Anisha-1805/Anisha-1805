@@ -31,13 +31,11 @@ Aspiring AI/ML engineer with a passion for developing intelligent, data-driven s
 
 ## Technical Skills
 
-| | |
-| :-- | :-- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-1E293B?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1E293B?style=flat-square) |
-| **AI / ML** | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1E3A8A?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1E3A8A?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-1E3A8A?style=flat-square) ![Generative AI](https://img.shields.io/badge/Generative%20AI-1E3A8A?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-1E3A8A?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-1E3A8A?style=flat-square) ![Gemini API](https://img.shields.io/badge/Gemini%20API-1E3A8A?style=flat-square&logo=googlegemini&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-1E293B?style=flat-square&logo=mongodb&logoColor=47A248) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=white) |
+<div align="center">
+
+<img src="assets/technical-skills.svg" alt="Technical skills: Java, Python, SQL, Machine Learning, Deep Learning, NLP, Generative AI, LLMs, RAG, Gemini API, React, MySQL, MongoDB, Git, GitHub" width="100%"/>
+
+</div>
 
 ---
 
